@@ -1,6 +1,5 @@
-Recommended requirements
-- OS: Windows® 11 64-bit
-- Processor	12th Gen Intel(R) Core(TM) i5-12450H   2.00 GHz
-- RAM	16.0 GB
-- NVIDIA GeForce RTX 3050 Ti Laptop GPU
-- Disk space: 500 GB
+docx==0.2.4
+lxml==5.3.0
+pillow==11.0.0
+python-docx==1.1.2
+typing_extensions==4.12.2
